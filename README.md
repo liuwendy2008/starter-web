@@ -17,3 +17,8 @@ This is the Procedure section.
 ## Conclusion
 
 This is the Conclusion section.
+
+### Copyright
+
+Copyright 2016 Git.Training
+
