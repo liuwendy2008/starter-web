@@ -22,3 +22,6 @@ This is the Conclusion section.
 
 Copyright 2016 Git.Training
 
+## How to Contribute
+
+Please fork this repository and then issue Pull Requests for review.
